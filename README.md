@@ -19,5 +19,5 @@ This project is a machine learning application that predicts whether a train tic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/irctc_prediction_app.git
+   git clone https://github.com/sudhanshu786b/irctc_prediction_app.git
    cd irctc_prediction_app
